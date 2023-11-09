@@ -6,7 +6,7 @@ public class DecrementingFor {
 		System.out.println("Enter Your Range");
 		int num = scan.nextInt();
 		for(int i=num; i>=1; i--) {
-			System.out.println(i);
+			System.out.println("The sum is " + i);
 		}
 	}
 
